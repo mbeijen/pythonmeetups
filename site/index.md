@@ -10,5 +10,5 @@ title: Python Meetups
 ### The Netherlands
 
  - [Python Leiden](https://pythonleiden.nl)
- - [Python Utrecht](https://pythonutrecht.nl)
+ - [Python Utrecht](https://www.meetup.com/pyutrecht/)
  - [Python Warmond](https://pythonwarmond.nl)
